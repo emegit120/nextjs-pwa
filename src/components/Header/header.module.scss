@@ -1,0 +1,21 @@
+.header{
+    padding: 1rem;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+}
+.esquerda{
+    width: 9rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.direita{
+    text-align: right;
+    width: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
